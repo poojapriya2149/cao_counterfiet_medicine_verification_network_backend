@@ -1,0 +1,18 @@
+[
+  {
+    "model": "mobilenetv4",
+    "device": "CPU",
+    "validation_accuracy_percent": 95.0,
+    "average_latency_ms": 7.639,
+    "single_image_fps": 130.9,
+    "validation_images": 300
+  },
+  {
+    "model": "mobilenetv4",
+    "device": "GPU",
+    "validation_accuracy_percent": 95.33,
+    "average_latency_ms": 13.402,
+    "single_image_fps": 74.62,
+    "validation_images": 300
+  }
+]
