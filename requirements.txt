@@ -1,0 +1,5 @@
+Flask>=3.0
+qrcode[pil]>=7.4
+openvino>=2024.0
+numpy>=1.24
+Pillow>=10.0
